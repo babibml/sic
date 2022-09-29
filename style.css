@@ -1,0 +1,22 @@
+body{
+    background-color:darkslategrey ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: auto;
+}
+
+h1{
+    color: aliceblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+p{
+    color:azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 550px;
+    box-shadow: 10px 10px 5px rgb(34, 54, 54);
+}
